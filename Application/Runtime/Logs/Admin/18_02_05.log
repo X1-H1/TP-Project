@@ -1,0 +1,9 @@
+[ 2018-02-05T15:05:24+08:00 ] 127.0.0.1 /index.php/Admin/Doc/edit/id/1
+ERR: 非法操作:edit
+
+[ 2018-02-05T17:50:54+08:00 ] 127.0.0.1 /index.php/Admin/Doc/del/id/
+ERR: 非法操作:del
+
+[ 2018-02-05T17:51:01+08:00 ] 127.0.0.1 /index.php/Admin/Doc/del/id/5
+ERR: 非法操作:del
+

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>test7</title>
+</head>
+<body>
+当前时间是：{$tim|date="Y-m-d H:i:s",###}<hr>
+{$str|substr=0,6|strtoupper}
+<hr>
+个性签名：{$s|default="这个家伙很懒，什么都没有留下。。。"}
+<hr>
+变量a的值：{$a}<br>
+变量b的值：{$b}<br>
+a+b={$a + $b}<br>
+a-b={$a - $b}<br>
+a*b={$a * $b}<br>
+a/b={$a / $b}<br>
+a++={$a ++}<br>
+++a={++$a }<br>
+b--={$b --}<br>
+--b={--$b }<br>
+
+</body>
+</html>

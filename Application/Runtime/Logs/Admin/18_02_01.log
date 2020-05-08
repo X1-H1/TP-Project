@@ -1,0 +1,58 @@
+[ 2018-02-01T09:13:02+08:00 ] 127.0.0.1 /index.php/admin/Dep/test
+ERR: 无法加载控制器:Dep
+
+[ 2018-02-01T09:45:22+08:00 ] 127.0.0.1 /index.php/Admin/Dept/showlist.html
+ERR: 非法操作:showlist
+
+[ 2018-02-01T09:45:28+08:00 ] 127.0.0.1 /index.php/Admin/Dept/showlist.html
+ERR: 非法操作:showlist
+
+[ 2018-02-01T09:49:22+08:00 ] 127.0.0.1 /index.php/Admin/Dept/showlist.html
+ERR: 非法操作:showlist
+
+[ 2018-02-01T19:21:16+08:00 ] 127.0.0.1 /index.php/Admin/Public
+ERR: 非法操作:index
+
+[ 2018-02-01T20:06:32+08:00 ] 127.0.0.1 /index.php/Admin/Public/checklogin
+ERR: 1146:Table 'db_oa.sp_user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `sp_user`
+
+[ 2018-02-01T20:23:59+08:00 ] 127.0.0.1 /index.php/Admin/Public
+ERR: 非法操作:index
+
+[ 2018-02-01T20:26:33+08:00 ] 127.0.0.1 /index.php/Admin/index/index.html
+ERR: 无法加载控制器:Index
+
+[ 2018-02-01T20:29:46+08:00 ] 127.0.0.1 /index.php/Admin/index/index.html
+ERR: 无法加载控制器:Index
+
+[ 2018-02-01T20:31:06+08:00 ] 127.0.0.1 /index.php/Admin/index/index.html
+ERR: 无法加载控制器:Index
+
+[ 2018-02-01T20:31:12+08:00 ] 127.0.0.1 /index.php/Admin/index/index.html
+ERR: 无法加载控制器:Index
+
+[ 2018-02-01T20:31:21+08:00 ] 127.0.0.1 /index.php/Admin/index/index.html
+ERR: 无法加载控制器:Index
+
+[ 2018-02-01T20:33:31+08:00 ] 127.0.0.1 /index.php/Admin/index/index.html
+ERR: 无法加载控制器:Index
+
+[ 2018-02-01T20:33:36+08:00 ] 127.0.0.1 /index.php/Admin/index/index.html
+ERR: 无法加载控制器:Index
+
+[ 2018-02-01T21:38:38+08:00 ] 127.0.0.1 /index.php/Admin/index/index.php/Admin/Public/login
+ERR: 非法操作:index.php
+
+[ 2018-02-01T21:46:12+08:00 ] 127.0.0.1 /index.php/Admin/index/right
+ERR: 非法操作:right
+
+[ 2018-02-01T21:47:34+08:00 ] 127.0.0.1 /index.php/Admin/index/right
+ERR: 非法操作:right
+
+[ 2018-02-01T21:47:52+08:00 ] 127.0.0.1 /index.php/Admin/index/right
+ERR: 非法操作:right
+
+[ 2018-02-01T21:48:34+08:00 ] 127.0.0.1 /index.php/Admin/index/right
+ERR: 非法操作:right
+

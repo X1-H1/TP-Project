@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>test8-数组的遍历</title>
+</head>
+<body>
+<div>
+    <h2>一维数组的遍历</h2>
+    采用volist遍历数组：<br>
+    <volist name="arr1" id="vol">
+        {$vol} --
+    </volist>
+    <br>
+    采用foreach遍历数组：<br>
+    <foreach name="arr1" item="for">
+        {$for} --
+    </foreach>
+</div>
+<div>
+    <h2>二维数组的遍历</h2>
+    采用volist遍历数组：<br>
+    <volist name="arr2" id="vol">
+        <volist name="vol" id="vo">
+            {$vo} --
+        </volist>
+        <br>
+    </volist>
+    <br>
+    采用foreach遍历数组：<br>
+    <foreach name="arr2" item="for">
+        {$for.0} --{$for[1]}
+        <br>
+    </foreach>
+</div>
+</body>
+</html>

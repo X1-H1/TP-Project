@@ -1,0 +1,9 @@
+[ 2018-02-14T08:42:23+08:00 ] 127.0.0.1 /index.php/Admin/Doc/del/id/1
+ERR: 非法操作:del
+
+[ 2018-02-14T08:52:29+08:00 ] 127.0.0.1 /index.php/Admin/Doc/charts
+ERR: 非法操作:charts
+
+[ 2018-02-14T08:53:43+08:00 ] 127.0.0.1 /index.php/Admin/Doc/edit/id/3
+ERR: 模板不存在:./Application/Admin/View/Doc/edit.html
+

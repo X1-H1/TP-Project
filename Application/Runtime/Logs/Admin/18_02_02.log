@@ -1,0 +1,92 @@
+[ 2018-02-02T17:50:48+08:00 ] 127.0.0.1 /index.php/Admin/User/showlist.html
+ERR: 无法加载控制器:User
+
+[ 2018-02-02T17:51:37+08:00 ] 127.0.0.1 /index.php/Admin/User/showlist.html
+ERR: 无法加载控制器:User
+
+[ 2018-02-02T17:51:38+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+ERR: 无法加载控制器:User
+
+[ 2018-02-02T17:51:42+08:00 ] 127.0.0.1 /index.php/Admin/User/showlist.html
+ERR: 无法加载控制器:User
+
+[ 2018-02-02T17:51:43+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+ERR: 无法加载控制器:User
+
+[ 2018-02-02T17:51:49+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+ERR: 无法加载控制器:User
+
+[ 2018-02-02T17:51:49+08:00 ] 127.0.0.1 /index.php/Admin/User/showlist.html
+ERR: 无法加载控制器:User
+
+[ 2018-02-02T17:52:05+08:00 ] 127.0.0.1 /index.php/Admin/User/showlist.html
+ERR: 无法加载控制器:User
+
+[ 2018-02-02T17:53:23+08:00 ] 127.0.0.1 /index.php/Admin/User/showlist.html
+ERR: 无法加载控制器:User
+
+[ 2018-02-02T17:53:40+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+ERR: 无法加载控制器:User
+
+[ 2018-02-02T17:53:46+08:00 ] 127.0.0.1 /index.php/Admin/User/showlist.html
+ERR: 无法加载控制器:User
+
+[ 2018-02-02T17:53:47+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+ERR: 无法加载控制器:User
+
+[ 2018-02-02T17:53:47+08:00 ] 127.0.0.1 /index.php/Admin/User/showlist.html
+ERR: 无法加载控制器:User
+
+[ 2018-02-02T17:58:01+08:00 ] 127.0.0.1 /index.php/Admin/User/showlist.html
+ERR: 非法操作:showlist
+
+[ 2018-02-02T17:58:02+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+ERR: 非法操作:add
+
+[ 2018-02-02T18:00:04+08:00 ] 127.0.0.1 /index.php/Admin/User/showlist.html
+ERR: 非法操作:showlist
+
+[ 2018-02-02T19:53:21+08:00 ] 127.0.0.1 /index.php/Admin/User/showlist.html
+ERR: 1146:Table 'db_oa.sp_' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `sp_` 
+
+[ 2018-02-02T20:42:42+08:00 ] 127.0.0.1 /index.php/Admin/User/add
+ERR: 1062:Duplicate entry '9' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `sp_user` (`id`,`username`,`password`,`truename`,`nickname`,`dept_id`,`sex`,`birthday`,`tel`,`email`,`remark`,`addtime`) VALUES ('9','泽拉斯','222222','远古巫灵','远程法师','12','男','2018-02-12','13400009999','14@xh.com','伤害有点小高','1517575362')
+
+[ 2018-02-02T20:45:07+08:00 ] 127.0.0.1 /index.php/Admin/User/add
+ERR: 1062:Duplicate entry '9' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `sp_user` (`id`,`username`,`password`,`truename`,`nickname`,`dept_id`,`sex`,`birthday`,`tel`,`email`,`remark`,`addtime`) VALUES ('9','泽拉斯','222222','远古巫灵','远程法师','12','男','2018-02-12','13400009999','14@xh.com','伤害有点小高','1517575507')
+
+[ 2018-02-02T20:45:19+08:00 ] 127.0.0.1 /index.php/Admin/User/add
+ERR: 1062:Duplicate entry '9' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `sp_user` (`id`,`username`,`password`,`truename`,`nickname`,`dept_id`,`sex`,`birthday`,`tel`,`email`,`remark`,`addtime`) VALUES ('9','泽拉斯','222222','远古巫灵','远程法师','12','男','2018-02-12','13400009999','14@xh.com','伤害有点小高','1517575519')
+
+[ 2018-02-02T20:49:22+08:00 ] 127.0.0.1 /index.php/Admin/User/add
+ERR: 1062:Duplicate entry '9' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `sp_user` (`id`,`username`,`password`,`truename`,`nickname`,`dept_id`,`sex`,`birthday`,`tel`,`email`,`remark`,`addtime`) VALUES ('9','泽拉斯','222222','远古巫灵','远程法师','12','男','2018-02-12','13400009999','14@xh.com','伤害有点小高','1517575762')
+
+[ 2018-02-02T20:52:44+08:00 ] 127.0.0.1 /index.php/Admin/User/add
+ERR: 1062:Duplicate entry '8' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `sp_user` (`id`,`username`,`password`,`truename`,`nickname`,`dept_id`,`sex`,`birthday`,`tel`,`email`,`remark`,`addtime`) VALUES ('8','轮子妈','111111','希维尔','adc1','11','男','2018-02-05','13400009999','14@xh.com','来自召唤师峡谷','1517575964')
+
+[ 2018-02-02T21:00:59+08:00 ] 127.0.0.1 /index.php/Admin/User/edit
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE `id` = 9' at line 1
+ [ SQL语句 ] : UPDATE `sp_user` SET  WHERE `id` = 9
+
+[ 2018-02-02T23:29:53+08:00 ] 127.0.0.1 /index.php/Admin/User/showlist.html
+ERR: 1146:Table 'db_oa.sp_' doesn't exist
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `sp_` LIMIT 1  
+
+[ 2018-02-02T23:34:36+08:00 ] 127.0.0.1 /index.php/Admin/User/showlist.html
+ERR: 1146:Table 'db_oa.sp_' doesn't exist
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `sp_` LIMIT 1  
+
+[ 2018-02-02T23:34:52+08:00 ] 127.0.0.1 /index.php/Admin/User/showlist.html
+ERR: 1146:Table 'db_oa.sp_' doesn't exist
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `sp_` LIMIT 1  
+
+[ 2018-02-02T23:50:14+08:00 ] 127.0.0.1 /index.php/Admin/Test/test34
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '" )' at line 1
+ [ SQL语句 ] : SELECT t2.name as deptname,t2.id,t1.* FROM sp_dept as t2,sp_user as t1 WHERE ( t2.id =  t1.dept_id" ) 
+

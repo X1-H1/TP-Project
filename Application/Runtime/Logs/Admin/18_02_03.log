@@ -1,0 +1,38 @@
+[ 2018-02-03T00:03:34+08:00 ] 127.0.0.1 /index.php/Admin/Test/test35
+ERR: 1146:Table 'db_oa.sp_' doesn't exist
+ [ SQL语句 ] : SELECT t1.*,t2.name FROM sp_ t2 left JOIN sp_user as t1 on t2.id = t1.dept_id  
+
+[ 2018-02-03T00:04:46+08:00 ] 127.0.0.1 /index.php/Admin/Test/test35
+ERR: 1066:Not unique table/alias: 't1'
+ [ SQL语句 ] : SELECT t1.*,t2.name FROM sp_dept t1 left JOIN sp_user as t1 on t2.id = t1.dept_id  
+
+[ 2018-02-03T10:37:20+08:00 ] 127.0.0.1 /index.php/Admin/Doc/add.html
+ERR: 无法加载控制器:Doc
+
+[ 2018-02-03T10:37:20+08:00 ] 127.0.0.1 /index.php/Admin/Doc/showlist.html
+ERR: 无法加载控制器:Doc
+
+[ 2018-02-03T10:37:21+08:00 ] 127.0.0.1 /index.php/Admin/Doc/add.html
+ERR: 无法加载控制器:Doc
+
+[ 2018-02-03T10:37:22+08:00 ] 127.0.0.1 /index.php/Admin/Doc/showlist.html
+ERR: 无法加载控制器:Doc
+
+[ 2018-02-03T10:37:24+08:00 ] 127.0.0.1 /index.php/Admin/Doc/add.html
+ERR: 无法加载控制器:Doc
+
+[ 2018-02-03T10:41:12+08:00 ] 127.0.0.1 /index.php/Admin/Doc/add.html
+ERR: 无法加载控制器:Doc
+
+[ 2018-02-03T10:41:13+08:00 ] 127.0.0.1 /index.php/Admin/Doc/showlist.html
+ERR: 无法加载控制器:Doc
+
+[ 2018-02-03T14:13:39+08:00 ] 127.0.0.1 /index.php/Admin/Doc/charts
+ERR: 非法操作:charts
+
+[ 2018-02-03T14:14:04+08:00 ] 127.0.0.1 /index.php/Admin/Doc/edit/id/4
+ERR: 非法操作:edit
+
+[ 2018-02-03T15:02:07+08:00 ] 127.0.0.1 /index.php/Admin/Doc/charts
+ERR: 非法操作:charts
+

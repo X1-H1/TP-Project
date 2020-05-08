@@ -1,0 +1,6 @@
+[ 2018-03-11T16:02:00+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+ERR: 模板不存在:./Application/Admin/View/Email/recBox.html
+
+[ 2018-03-11T16:02:02+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+ERR: 模板不存在:./Application/Admin/View/Email/recBox.html
+

@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-image: url('../images/bg.jpg');
+    background-size:cover;
+}
+.login{
+    height:200px;
+    width:335px;
+    margin: 15% auto 0;
+    /*vertical-align:middle;*/
+    background:rgba(200,200,200,0.4);
+}
+form table tr{
+    height:35px;
+}
+.capt{
+    display: block;
+}

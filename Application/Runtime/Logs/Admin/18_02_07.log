@@ -1,0 +1,10 @@
+[ 2018-02-07T15:56:39+08:00 ] 127.0.0.1 /index.php/Admin/Doc/img_detail/id/10
+ERR: 1146:Table 'db_oa.sp_' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `sp_` WHERE `id` = '10' LIMIT 1  
+
+[ 2018-02-07T19:34:24+08:00 ] 127.0.0.1 /index.php/Admin/Doc/charts
+ERR: 非法操作:charts
+
+[ 2018-02-07T20:54:38+08:00 ] 127.0.0.1 /index.php/Admin/Doc/edit/id/8
+ERR: 非法操作:edit
+

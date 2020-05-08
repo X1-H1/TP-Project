@@ -1,0 +1,66 @@
+[ 2018-02-27T08:56:23+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/showlist.html
+ERR: 非法操作:showlist
+
+[ 2018-02-27T08:56:24+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/add.html
+ERR: 非法操作:add
+
+[ 2018-02-27T09:07:49+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/showlist.html
+ERR: 非法操作:showlist
+
+[ 2018-02-27T09:08:25+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/showlist.html
+ERR: 非法操作:showlist
+
+[ 2018-02-27T09:08:26+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/add.html
+ERR: 非法操作:add
+
+[ 2018-02-27T09:08:33+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/showlist.html
+ERR: 非法操作:showlist
+
+[ 2018-02-27T12:36:13+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/showlist.html
+ERR: 非法操作:showlist
+
+[ 2018-02-27T12:36:17+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/add.html
+ERR: 非法操作:add
+
+[ 2018-02-27T12:44:23+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/showlist.html
+ERR: 非法操作:showlist
+
+[ 2018-02-27T12:44:27+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/showlist.html
+ERR: 非法操作:showlist
+
+[ 2018-02-27T13:05:51+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/add.html
+ERR: Think\Model:addData方法不存在！
+
+[ 2018-02-27T13:06:03+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/add.html
+ERR: Think\Model:addData方法不存在！
+
+[ 2018-02-27T13:07:33+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/add.html
+ERR: Think\Model:addData方法不存在！
+
+[ 2018-02-27T13:31:13+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/showlist.html
+ERR: 非法操作:showlist
+
+[ 2018-02-27T17:45:52+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/showlist.html
+ERR: 模板不存在:./Application/Admin/View/Knowledge/showlist.html
+
+[ 2018-02-27T17:56:30+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/edit/id/1
+ERR: 非法操作:edit
+
+[ 2018-02-27T18:29:51+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/edit/id/1
+ERR: 非法操作:edit
+
+[ 2018-02-27T18:33:14+08:00 ] 127.0.0.1 /index.php/Admin/Doc/del/id/2
+ERR: 非法操作:del
+
+[ 2018-02-27T18:40:11+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/edit/id/2
+ERR: 模板不存在:./Application/Admin/View/Knowledge/edit.html
+
+[ 2018-02-27T19:22:12+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/edit/id/1
+ERR: 模板不存在:./Application/Admin/View/Knowledge/edit.html
+
+[ 2018-02-27T19:22:18+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/del/id/1
+ERR: 非法操作:del
+
+[ 2018-02-27T19:39:28+08:00 ] 127.0.0.1 /index.php/Admin/Doc/del/id/
+ERR: 非法操作:del
+
